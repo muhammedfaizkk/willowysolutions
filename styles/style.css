@@ -80,8 +80,20 @@ body {
     transition: 0.3s;
     width:150px;
 }
-
-.read-more:hover {
+.read-morebanner{
+    display: inline-flex;
+    align-items: center;
+    padding: 10px 20px;
+    border: 2px solid white;
+    border-radius: 8px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    transition: 0.3s;
+    width:170px;
+    margin-top:20px;
+}
+.read-more,.read-morebanner:hover {
     background-color: white;
     color: black;
 }

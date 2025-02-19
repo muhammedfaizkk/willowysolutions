@@ -20,7 +20,7 @@
 .active-slider-item__imageone {
     display: none;
     height: 418px;
-    width: auto;
+    width:100%;
     object-fit: cover;
 }
 
