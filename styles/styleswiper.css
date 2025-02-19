@@ -19,7 +19,7 @@
 /* Ensure only active images are displayed */
 .active-slider-item__imageone {
     display: none;
-    height: auto;
+    height: 418px;
     width: auto;
     object-fit: cover;
 }
