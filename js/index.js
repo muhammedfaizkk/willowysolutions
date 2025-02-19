@@ -61,7 +61,7 @@ document.addEventListener("DOMContentLoaded", () => {
 				centeredSlides: true,
 				initialSlide: 1,
 				loop: true, 
-				loopedSlides: 7, // Creates duplicate slides for a smooth loop (set according to your number of slides)
+				loopedSlides: 5, // Creates duplicate slides for a smooth loop (set according to your number of slides)
 				autoplay: {
 					delay: 3000, // Adjust the auto-slide speed
 					disableOnInteraction: true, // Keeps autoplay running after user interaction
